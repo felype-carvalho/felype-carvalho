@@ -1,7 +1,7 @@
 ## Bem-vindo! Eu sou Felype Carvalho
 
 - 👀 Tenho interesse em video-games, gatos e cultura oriental
-- 🌱 Estou estudando React e Node
+- 🌱 Estou estudando ReactJS e NodeJS
 
 <div align="center">
   <a href="https://github.com/felype-carvalho">
